@@ -6,4 +6,3 @@
 - 👯 I’m looking to collaborate on - Python, Angular, etc. 
 - 🤔 I’m looking for help with - Java Spring
 - 💬 Ask me about anything about Python
-
